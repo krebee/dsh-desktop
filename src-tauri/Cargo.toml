@@ -3,6 +3,8 @@ name = "dsh-desktop"
 version = "0.1.0"
 description = "A thin Tauri desktop wrapper for the DeepSeek Harness Web GUI"
 authors = ["krebee"]
+license = "MIT"
+repository = "https://github.com/krebee/dsh-desktop"
 edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html

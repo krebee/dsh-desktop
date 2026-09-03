@@ -34,3 +34,7 @@ npm run tauri build  # 成果物は src-tauri/target/release/bundle/
 
 - `src/` — スプラッシュ画面 (起動直後にだけ表示されるローカル HTML。サーバー起動待ちの間の表示)
 - `src-tauri/src/lib.rs` — `dsh web` の起動・起動監視・終了処理とウィンドウ遷移をすべて担当
+
+## ライセンス
+
+MIT License — 詳しくは [LICENSE](LICENSE) を参照。
